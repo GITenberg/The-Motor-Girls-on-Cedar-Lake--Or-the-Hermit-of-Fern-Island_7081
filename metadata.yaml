@@ -1,0 +1,27 @@
+_repo: The-Motor-Girls-on-Cedar-Lake--Or-the-Hermit-of-Fern-Island_7081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Motor Girls on Cedar Lake; Or, the Hermit of Fern Island
+url: http://www.gutenberg.org/ebooks/7081
